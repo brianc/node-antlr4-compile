@@ -1,5 +1,5 @@
 {
-  "name": "node-antlr4-compile",
+  "name": "antlr4-compile",
   "version": "0.0.1",
   "description": "Compile a string of antlr4 grammar",
   "main": "index.js",
